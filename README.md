@@ -5,9 +5,8 @@
 <img src="./github/DoctorCare.gif">
 
 <h2 align="center">
-    <a href="https://elias-neto.github.io/Site-com-Parallax/"> Veja o Site</a>
+    <a href="https://elias-neto.github.io/DoctorCare/"> Veja o Site</a>
 </h2>  
-<div>
 
 ---
 
